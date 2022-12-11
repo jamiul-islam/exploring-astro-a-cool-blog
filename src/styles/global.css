@@ -20,6 +20,17 @@ h1 {
   font-size: 2.5rem;
 }
 
+/* toggle dar mode */
+
+.dark body {
+  background-color: #0d0950;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
+}
+
 /* navigation links */
 
 .hamburger {
